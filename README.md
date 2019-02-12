@@ -11,6 +11,8 @@ A Deep Reinforcement Learning Framework for the Financial Portfolio Management P
 
 Reinforcement Learning For Automated Trading [http://www1.mate.polimi.it/~forma/Didattica/ProgettiPacs/BrambillaNecchi15-16/PACS_Report_Pierpaolo_Necchi.pdf]
 
+CNNPred: CNN-based stock market prediction using several data sources [https://www.researchgate.net/publication/328445708_CNNPred_CNN-based_stock_market_prediction_using_several_data_sources]
+
 ### Codes
 
 [https://github.com/deependersingla/deep_trader/]
