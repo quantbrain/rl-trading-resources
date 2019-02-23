@@ -13,6 +13,8 @@ Reinforcement Learning For Automated Trading [http://www1.mate.polimi.it/~forma/
 
 CNNPred: CNN-based stock market prediction using several data sources [https://www.researchgate.net/publication/328445708_CNNPred_CNN-based_stock_market_prediction_using_several_data_sources]
 
+Risk-Sensitive and Efficient Reinforcement Learning Algorithms [https://people.eecs.berkeley.edu/~avivt/phd_thesis.pdf]
+
 ### Codes
 
 [https://github.com/deependersingla/deep_trader/]
